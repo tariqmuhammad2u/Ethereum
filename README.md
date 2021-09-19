@@ -1,5 +1,5 @@
 # Ethereum
-Coding | Developer
+Coder | Developer
 
 Greetings! Virtucons
 
