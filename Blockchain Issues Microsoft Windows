@@ -1,0 +1,5 @@
+In an attempt to run Ethereum blockchain using Microsoft Windows, Windows protected my PC 
+and prevented get-windows-amd64-1.10.9-eae3b194.exe because it has an 'Unknown publisher'.
+Should Geth run on a single stand-alone dedicated device only? or can someone explain why 
+it's oor kay to run Geth on a single tablet used for other purposes such as watching
+videos and reading articles?   
